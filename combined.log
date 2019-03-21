@@ -1,0 +1,3 @@
+{"timestamp":"2019-03-21T02:36:44.729Z","level":"info","message":"Duplicate Removed","duplicateProperty":"foo","item":{"foo":"bar"}}
+{"timestamp":"2019-03-21T02:40:10.747Z","level":"info","message":"Duplicate Removed","duplicateProperty":"foo","item":{"foo":"bar"}}
+{"timestamp":"2019-03-21T02:41:21.456Z","level":"info","message":"Duplicate Removed","duplicateProperty":"foo","item":{"foo":"bar"}}

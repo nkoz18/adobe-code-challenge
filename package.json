@@ -1,0 +1,21 @@
+{
+  "name": "adobe-code-challenge",
+  "version": "0.0.0",
+  "description": "A command line application to take an input JSON file and remove duplicates from the file.",
+  "main": "removeduplicates.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/nkoz18/adobe-code-challenge)"
+  },
+  "author": "Nikita Kozlov <nikita@stroika.io>",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
