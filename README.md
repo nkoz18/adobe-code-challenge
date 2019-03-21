@@ -54,6 +54,8 @@ The log keeps track of when and why (which duplicate property) each entry was re
 node removeduplicates.js "./path/to/input.json" "./path/to/output.json"
 ```
 
+Sample input files are located in the 'input_files' directory. 
+
 ## Running the tests
 
 Testing is done with Mocha.
